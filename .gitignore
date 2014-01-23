@@ -1,0 +1,11 @@
+
+bin/
+gen/
+.settings/
+
+**/.DS_Store
+
+local.properties
+project.properties
+
+libs/android-support-v4.jar
